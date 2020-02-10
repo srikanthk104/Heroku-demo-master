@@ -1,2 +1,1 @@
-# Heroku-demo-master
-Heroku-demo-master
+# Heroku-Demo
